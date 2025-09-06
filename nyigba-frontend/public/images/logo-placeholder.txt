@@ -1,0 +1,2 @@
+<!-- This is a placeholder for the Nyigba.eth logo -->
+<!-- The actual logo file should be saved as /public/images/nyigba-logo.png -->

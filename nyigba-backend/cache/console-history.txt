@@ -1,1 +1,0 @@
-npx hardhat run scripts/test-deployment.js --network baseSepolia

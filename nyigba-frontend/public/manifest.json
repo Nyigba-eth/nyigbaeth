@@ -1,0 +1,26 @@
+{
+  "name": "Nyigba.eth - Preserving African Heritage Onchain",
+  "short_name": "Nyigba.eth",
+  "description": "A Web3 cultural heritage platform that leverages ENS, NFTs, DAOs, and decentralized storage to preserve African culture.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1F2937",
+  "theme_color": "#dc5f52",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-16x16.svg",
+      "sizes": "16x16",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["entertainment", "lifestyle", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}

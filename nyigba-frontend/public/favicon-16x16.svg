@@ -1,0 +1,26 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lanternGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E6B885"/>
+      <stop offset="100%" style="stop-color:#D4A574"/>
+    </linearGradient>
+    <linearGradient id="ethGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8A92E2"/>
+      <stop offset="100%" style="stop-color:#627EEA"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="8" cy="8" r="7.5" fill="#1F2937"/>
+  
+  <!-- Simplified favicon for 16x16 -->
+  <g transform="translate(8, 8)">
+    <!-- Lantern -->
+    <ellipse cx="0" cy="0.5" rx="4" ry="5" fill="url(#lanternGrad)" stroke="#8B4513" stroke-width="0.5"/>
+    <ellipse cx="0" cy="-3.5" rx="2.5" ry="1" fill="#8B4513"/>
+    
+    <!-- Ethereum Diamond -->
+    <polygon points="0,-1 -2,1.5 0,2.5 2,1.5" fill="url(#ethGrad)"/>
+    <polygon points="0,-1 -2,1.5 0,0.5" fill="#FFFFFF" opacity="0.5"/>
+  </g>
+</svg>
